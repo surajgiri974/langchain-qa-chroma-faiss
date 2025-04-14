@@ -1,0 +1,24 @@
+Security in Banking and Payments
+
+Ensuring the security of financial transactions and customer data is paramount for banks and payment systems. Various measures are implemented to protect against fraud, cyberattacks, and unauthorized access.
+
+Security Measures in Banking:
+- Encryption: Protecting sensitive data during transmission and storage.
+- Multi-Factor Authentication (MFA): Requiring multiple verification steps to access accounts or authorize transactions.
+- Firewalls and Intrusion Detection Systems: Preventing unauthorized access to bank networks.
+- Fraud Monitoring Systems: Detecting suspicious activities and alerting banks and customers.
+- Biometric Authentication: Using unique biological traits (e.g., fingerprints, facial recognition) for verification.
+- Secure Socket Layer (SSL) and Transport Layer Security (TLS): Protocols for secure communication over the internet.
+
+Security Measures in Payments:
+- Tokenization: Replacing sensitive card details with unique tokens for transactions.
+- EMV Chip Technology: Enhancing the security of card payments through embedded microchips.
+- Payment Gateways with Security Protocols: Ensuring secure processing of online payments.
+- Strong Customer Authentication (SCA): Requiring additional verification for online transactions.
+- Regular Security Audits and Compliance Standards (e.g., PCI DSS).
+
+Customer Responsibilities:
+- Protecting login credentials and PINs.
+- Being cautious of phishing scams and suspicious emails/messages.
+- Regularly monitoring account activity.
+- Reporting any unauthorized transactions immediately.

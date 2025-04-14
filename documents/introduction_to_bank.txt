@@ -1,0 +1,15 @@
+Introduction to Banking
+
+Banking is a fundamental aspect of modern economies, facilitating financial transactions and managing money supply. Banks act as intermediaries between savers and borrowers, playing a crucial role in economic growth and stability.
+
+Key Functions of Banks:
+- Accepting Deposits: Banks provide a safe place for individuals and businesses to store their money. Different types of deposit accounts include savings accounts, current accounts, and fixed deposits.
+- Providing Loans: Banks lend money to individuals, businesses, and governments for various purposes, such as mortgages, personal loans, business expansion, and infrastructure projects.
+- Facilitating Payments: Banks offer various payment methods, enabling individuals and businesses to make transactions efficiently.
+- Other Services: Banks also provide services like wealth management, foreign exchange, insurance, and financial advisory.
+
+Types of Banks:
+- Commercial Banks: These are the most common type of banks, offering a wide range of services to the general public and businesses.
+- Investment Banks: These banks focus on underwriting securities, facilitating mergers and acquisitions, and providing financial advisory services to corporations.
+- Central Banks: These are government-controlled institutions responsible for managing a country's monetary policy, issuing currency, and overseeing the banking system.
+- Cooperative Banks: These banks are owned and operated by their members, often focusing on specific communities or sectors.

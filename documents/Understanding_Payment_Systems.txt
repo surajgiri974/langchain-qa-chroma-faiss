@@ -1,0 +1,14 @@
+Understanding Payment Systems
+
+A payment system is a set of instruments, procedures, and rules for the transfer of funds between individuals, businesses, and other entities. Efficient and secure payment systems are vital for smooth economic activity.
+
+Key Components of a Payment System:
+- Payment Instruments: These are the tools used to initiate a payment, such as cash, checks, credit cards, debit cards, and mobile payment apps.
+- Payment Infrastructure: This includes the networks, technologies, and institutions that facilitate the transfer of funds. Examples include card networks (Visa, Mastercard), interbank transfer systems (e.g., NEFT, RTGS), and payment gateways.
+- Participants: These are the entities involved in a payment transaction, including payers, payees, banks, and payment processors.
+- Regulatory Framework: Governments and regulatory bodies establish rules and standards to ensure the safety, efficiency, and integrity of payment systems.
+
+Types of Payment Systems:
+- Cash-Based Systems: Transactions are settled using physical currency.
+- Paper-Based Systems: Transactions involve physical documents like checks.
+- Electronic Payment Systems: Funds are transferred electronically through various channels. This includes card payments, online banking transfers, mobile payments, and digital wallets.
